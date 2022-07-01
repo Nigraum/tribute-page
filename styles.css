@@ -25,6 +25,11 @@ body {
   background-color: #eee;
 }
 
+h1 {
+  font-size: 4rem;
+  margin-bottom: 0;
+}
+
 #image {
   max-width: 100%;
   height: auto;
