@@ -46,3 +46,8 @@ h1 {
 #img-caption {
   margin: 15px 0 5px 0;
 }
+
+#headline {
+  margin: 50px 0;
+  text-align: center;
+}
