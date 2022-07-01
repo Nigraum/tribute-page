@@ -42,3 +42,7 @@ h1 {
   margin: 0 auto;
   display: block;
 }
+
+#img-caption {
+  margin: 15px 0 5px 0;
+}
