@@ -6,7 +6,7 @@
  https://tribute-page-nigraum.vercel.app/
 
 
-!![image](https://user-images.githubusercontent.com/102248990/177223545-b1143062-80a9-476c-9053-0d0c426040d3.png)
+![image](https://user-images.githubusercontent.com/102248990/177223545-b1143062-80a9-476c-9053-0d0c426040d3.png)
 
 
 
