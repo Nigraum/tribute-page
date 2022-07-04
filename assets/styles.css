@@ -95,3 +95,19 @@ p {
   margin-inline-start: 0px;
   margin-inline-end: 0px;
 }
+
+@media (max-width: 460px) {
+  h1 {
+    font-size: 3.5rem;
+    line-height: 1.2;
+  }
+
+  #main{
+    margin: 0;
+  }
+
+  #img-caption {
+    font-size: 1.4rem;
+  }
+}
+
